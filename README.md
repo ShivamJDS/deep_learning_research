@@ -1,2 +1,12 @@
 # deep_learning_research
-implementation of researchpapers with detailed explaination
+
+* Here we will implementation of research papers with detailed explaination
+
+
+
+# Important links
+
+* https://distill.pub/
+* https://github.com/sbrugman/deep-learning-papers
+* https://github.com/shervinmin/awesome-deep-learning-survey-papers
+
